@@ -1,6 +1,6 @@
 # Ruta del estuche farmacéutico · landing de la Semana 11
 
-Guía para el docente. Mg. Mario Quiroz Martinez. Unidad didáctica Producción y publicación de piezas gráficas
+Guía para el docente. Mg. Mario Quiroz Martinez. Unidad didáctica Producción y publicación de piezas gráficas `[CONFIRMAR]`.
 
 Los estudiantes abren `https://aplicativos-idc.<tu-red>.ts.net/tarea-11/`. La página reúne la sesión completa en tres partes.
 
@@ -31,7 +31,8 @@ En `02-Proyectos/Dinamica/Proyectos/docente-tarea-11/`, **fuera** de la carpeta 
 ## Archivos y construcción
 
 - `index.html` (landing), `1__EC_Experiencia concreta/` y `2__OR_Observación reflexiva/`, cada uno con su README.
-- Fuentes en `02-Proyectos/Dinamica/Proyectos/fuentes-tarea-11/`. `py -3.12 build.py` arma la versión de estudiante y la docente; `build.py estudiante` o `build.py docente` arman solo una.
+- Fuentes en `02-Proyectos/Dinamica/Proyectos/fuentes-tarea-11/`. `py -3.12 build.py` arma la versión de estudiante, la docente y el artefacto del preámbulo; `build.py estudiante`, `build.py docente` o `build.py artefacto` arman solo una.
+- Las claves docentes están en `doc_data.js` y solo entran en la versión docente. Las páginas de esta carpeta no contienen ejemplos, notas ni soluciones de referencia.
 - La landing carga sus tipografías desde Google Fonts. Sin conexión usa las del sistema y todo sigue funcionando.
 
 ## Verificación (11-11-2026)
