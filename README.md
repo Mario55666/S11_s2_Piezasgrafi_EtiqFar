@@ -1,6 +1,6 @@
 # Ruta del estuche farmacéutico · landing de la Semana 11
 
-Guía para el docente. Mg. Mario Quiroz Martinez. Unidad didáctica Producción y publicación de piezas gráficas `[CONFIRMAR]`.
+Guía para el docente. Mg. Mario Quiroz Martinez. Unidad didáctica Producción y publicación de piezas gráficas
 
 Los estudiantes abren `https://aplicativos-idc.<tu-red>.ts.net/tarea-11/`. La página reúne la sesión completa en tres partes.
 
